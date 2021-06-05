@@ -1,4 +1,6 @@
-[![hongsusoo's github stats](https://github-readme-stats.vercel.app/api?username=hongsusoo&hide=issues&show_icons=true&theme=dracula)](https://github.com/hongsusoo/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsusoo&layout=compact&theme=dracula)](https://github.com/hongsusoo)
+[![hongsusoo's github stats](https://github-readme-stats.vercel.app/api?username=hongsusoo&hide=issues&show_icons=true&theme=dracula)](https://github.com/hongsusoo/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hongsusoo&layout=compact&theme=dracula)](https://github.com/hongsusoo)
 
 |Project|Problem Solving|
 |---|---|
