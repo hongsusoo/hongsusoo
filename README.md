@@ -1,4 +1,4 @@
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=hongsusoo&hide=issues&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
+[![hongsusoo's github stats](https://github-readme-stats.vercel.app/api?username=hongsusoo&hide=issues&show_icons=true&theme=dracula)](https://github.com/hongsusoo/github-readme-stats)
 
 |Project|Problem Solving|
 |---|---|
