@@ -15,7 +15,7 @@
 <br>
 
 <div align=center>
-<a href="https://www.notion.so/PJT_Master-c921c5973d2a440fa4e60053cb7ed289" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://hongsusoo.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a> <a href="https://solved.ac/profile/hyhgoodgo7" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyhgoodgo7"/></a>   
+<a href="https://valiant-tibia-c18.notion.site/Yohan-Hong-24a896c66aa440bfa4f0f802c3ae8bd3" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=Notion&logoColor=white"/></a><a href="https://hongsusoo.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub Blog-000000?style=flat-square&logo=GitHub&logoColor=#181717"/></a> <a href="https://solved.ac/profile/hyhgoodgo7" target="_blank"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=hyhgoodgo7"/></a>
 </div>
 <div align=right><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhongsusoo&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=visited&edge_flat=false"/></a>
 </div>
