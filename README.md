@@ -6,7 +6,7 @@
 - I am Studying ML/DL (Computer Vision)
 
 ### Project
-- DanseFit : Pose Estimation
+- DanseFit : Pose Estimation - [link](https://github.com/hongsusoo/final-project-level3-cv-08)
 - Bank OCR Hackathon - 🥈
 - Parts of Body Semantic Segmentation - 🥈 [link](https://github.com/hongsusoo/nunbody_segmentation)
 - Busan Detection Hackathon - 🥇 [link](https://github.com/hongsusoo/busan_detection_hackathon) 
