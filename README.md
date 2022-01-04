@@ -1,5 +1,5 @@
 ## Hello, I am YoHan Hong 🐋
-- Undergraduate at Chung-Ang Univ.
+- Graduate at Chung-Ang Univ.
 - Major in Electronic Electrical Engineering 💡
 - Worded at LG Display for 4 years, Aug 2017– Apr 2021 (Process & Equipment Senior Engineer)
 - Boostcamper of Boostcamp AI Tech by Naver Connect Foundation, Jul 2021 ~ Dec 2021
